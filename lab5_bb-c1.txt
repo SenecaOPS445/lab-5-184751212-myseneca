@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: bb-c1
+    Linux system name: Bishwash
+    Python executable: /usr/bin/python3
+    Python version: 31012
+    OS Platform: linux
+    Working Directory: /home/bb-c1/ops445/lab5
+    Start at: Thu Jul 11 00:09:27 2024
+=================================================================
